@@ -1,0 +1,11 @@
+﻿  Menu.cpp
+C:\Users\agata\Desktop\pea2\pea2\SimulatedAnnealing.h(18,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\agata\Desktop\pea2\pea2\SimulatedAnnealing.h(20,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\agata\Desktop\pea2\pea2\Menu.cpp(10,18): warning C4305: '=': truncation from 'double' to 'float'
+  TabuSearch.cpp
+  pea2.cpp
+C:\Users\agata\Desktop\pea2\pea2\Menu.cpp(11,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\agata\Desktop\pea2\pea2\SimulatedAnnealing.h(18,1): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\agata\Desktop\pea2\pea2\SimulatedAnnealing.h(20,1): warning C4305: '=': truncation from 'double' to 'float'
+  pea2.vcxproj -> C:\Users\agata\Desktop\pea2\Debug\pea2.exe
